@@ -1,3 +1,28 @@
+# 🛡️ XANTARESCyB OSINT HUB  
+
+Merhaba! Bu repo, farklı OSINT (Open Source Intelligence) araçlarını tek bir merkezde toplamak için geliştirilmiştir. Telefon numarası sorgulama, IP ve domain analizleri, metadata çıkartma gibi birçok fonksiyonu tek bir menüden kolayca kullanabilirsiniz.  
+
+ 🚀 Özellikler
+- 20 farklı OSINT aracına tek menüden erişim  
+- Dinamik giriş (her seçimde sizden parametre ister)  
+- Python + Bash entegrasyonu  
+- Genişletilebilir yapı (100+ tool eklenebilir)  
+
+⚡ Kullanım
+\`\`\`bash
+python3 XANTARESCyB_osint_hub.py
+\`\`\`
+Komut satırından çalıştırdıktan sonra menüden istediğiniz aracı seçin.  
+
+⚖️ Yasal Uyarı
+Bu proje yalnızca **eğitim ve araştırma amaçlıdır**. İzinsiz test, saldırı veya yasa dışı kullanım kesinlikle yasaktır.  
+Geliştirici hiçbir sorumluluk kabul etmez; tüm risk kullanıcıya aittir. Yalnızca izinli hedeflerde, etik kurallara uyarak kullanınız.  
+
+📡 İletişim
+Soru, görüş, öneri veya ihbar için:  
+👉 [X (Twitter) Hesabım](https://x.com/XANTARESCyB)  
+
+
 <div align="center">
     <img align="center" src="./logo.png" width="180px" >
     <h2 align="center">APIs For OSINT</h2>     
